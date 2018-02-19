@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DCD7476C-4E1B-C3D7-A3EC-C808DBCDBD99}") = "Jeu_Unity_Survie", "Assembly-CSharp.csproj", "{DF388C2E-65ED-B462-5953-4FC4B457923C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF388C2E-65ED-B462-5953-4FC4B457923C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF388C2E-65ED-B462-5953-4FC4B457923C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF388C2E-65ED-B462-5953-4FC4B457923C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF388C2E-65ED-B462-5953-4FC4B457923C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
